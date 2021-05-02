@@ -7,5 +7,6 @@
 記載予定
 
 ## データベース
+### DynamoDB
 
 <img src="https://github.com/wadayamada/yasaikakaku/blob/main/database.png" width="300">
