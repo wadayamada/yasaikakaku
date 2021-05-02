@@ -4,7 +4,7 @@
 
 ## アーキテクチャ
 
-記載予定
+<img src="https://github.com/wadayamada/yasaikakaku/blob/main/architecture.png" width="900">
 
 ## データベース
 ### DynamoDB
