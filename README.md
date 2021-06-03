@@ -9,4 +9,4 @@
 ## データベース
 ### DynamoDB
 
-<img src="https://github.com/wadayamada/yasaikakaku/blob/main/database-v2.png" width="300">
+<img src="https://github.com/wadayamada/yasaikakaku/blob/main/database-v2.png" width="150">
